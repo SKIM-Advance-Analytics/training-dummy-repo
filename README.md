@@ -1,2 +1,3 @@
-# training-dummy-repo
-Upload here your training exercise, also you can use this public repo to play around and test things around Github!
+# Training Repo
+###Used to upload and review training exercises
+Also you can use this public repo to play around and test things around Github!
