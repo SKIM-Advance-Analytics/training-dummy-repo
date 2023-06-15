@@ -7,4 +7,4 @@ data_set <- seq(1:10)
 mean(data_set)
 
 #Add histogram
-
+hist(data_set)
